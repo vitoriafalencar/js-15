@@ -1,0 +1,29 @@
+h1{
+    color: steelblue;
+    background-image: linear-gradient(to bottom,rebeccapurple,steelblue,turquoise);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: black;
+}
+
+
+body{
+    background-color: rgb(222, 199, 191);
+}
+
+button{
+    color: rgb(250, 0, 0);
+}
+
+input{
+    color: steelblue;
+    background-image: linear-gradient(to bottom,rebeccapurple,rgb(176, 0, 97),rgb(255, 0, 191));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: black
+}
+.resultado{
+  cursor: wait;
+}
